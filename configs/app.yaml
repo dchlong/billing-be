@@ -1,0 +1,5 @@
+http_addr: ":8088"
+read_header_timeout: 2000
+number_of_seconds_in_a_block: 30
+database_config:
+  data_source: ''

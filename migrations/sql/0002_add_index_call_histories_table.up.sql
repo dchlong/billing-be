@@ -1,0 +1,1 @@
+CREATE INDEX user_name_idx ON call_histories (user_name);
