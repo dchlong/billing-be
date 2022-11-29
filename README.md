@@ -130,5 +130,5 @@ Linting is the automated checking of your source code for programmatic and styli
 Command:
 
 ```bash
- ./scripts/bin.sh unit_test
+ ./scripts/bin.sh lint
 ```
